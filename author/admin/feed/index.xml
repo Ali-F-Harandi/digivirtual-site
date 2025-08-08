@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; DigiVirtual</title>
-	<atom:link href="https://digivirtual.top/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; DigiVirtual</title>
+	<atom:link href="https://digivirtual.top/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://digivirtual.top/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Aug 2025 23:05:54 +0000</lastBuildDate>
