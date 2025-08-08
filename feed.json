@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digi Virtual",
+    "description": "",
+    "home_page_url": "https://digivirtual.top",
+    "feed_url": "https://digivirtual.top/feed.json",
+    "user_comment": "",
+    "icon": "https://digivirtual.top/media/website/Color-logo-no-background.png",
+    "author": {
+        "name": "DigiVirtual"
+    },
+    "items": [
+        {
+            "id": "https://digivirtual.top/test-2/",
+            "url": "https://digivirtual.top/test-2/",
+            "title": "TEST (copy)",
+            "summary": "<div class=\"product-meta\">\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span> <span class=\"discount-badge\">50% OFF</span></div>\n<a href=\"your-download-link\" class=\"button download-button\">Download Now</a></div>\n<hr>\n<p>This is the short description of the product. It explains the key benefits and features.</p>\n",
+            "content_html": "<div class=\"product-meta\">\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span> <span class=\"discount-badge\">50% OFF</span></div>\n<a href=\"your-download-link\" class=\"button download-button\">Download Now</a></div>\n<hr>\n<p>This is the short description of the product. It explains the key benefits and features.</p>\n\n<p>Download from Telze gram</p>",
+            "image": "https://digivirtual.top/media/posts/2/Screenshot-2025-08-04-181533.png",
+            "author": {
+                "name": "DigiVirtual"
+            },
+            "tags": [
+                   "software",
+                   "ebooks",
+                   "TEST",
+                   "DIAGRAMO"
+            ],
+            "date_published": "2025-08-07T20:40:00+03:30",
+            "date_modified": "2025-08-07T20:40:00+03:30"
+        },
+        {
+            "id": "https://digivirtual.top/test/",
+            "url": "https://digivirtual.top/test/",
+            "title": "TEST",
+            "summary": "<div class=\"product-meta\">\n<div>🗂 Product Type :  Bank Statement (fully editable)<br>🆔 Product Code: 1010<br>🌏 Country : United Kingdom 🇬🇧<br>🏦 Bank : NatWest Bank<br>📎 Format : PDF</div>\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span> <span class=\"discount-badge\">50% OFF</span></div>\n<a href=\"your-download-link\">BUY NOW</a></div>\n",
+            "content_html": "<div class=\"product-meta\">\n<div>🗂 Product Type :  Bank Statement (fully editable)<br>🆔 Product Code: 1010<br>🌏 Country : United Kingdom 🇬🇧<br>🏦 Bank : NatWest Bank<br>📎 Format : PDF</div>\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span> <span class=\"discount-badge\">50% OFF</span></div>\n<a href=\"your-download-link\">BUY NOW</a></div>\n\n<p>Download from Telze gram</p>",
+            "image": "https://digivirtual.top/media/posts/1/Screenshot-2025-08-04-181533.png",
+            "author": {
+                "name": "DigiVirtual"
+            },
+            "tags": [
+                   "software",
+                   "ebooks",
+                   "TEST",
+                   "DIAGRAMO"
+            ],
+            "date_published": "2025-08-07T15:37:07+03:30",
+            "date_modified": "2025-08-07T20:50:22+03:30"
+        }
+    ]
+}

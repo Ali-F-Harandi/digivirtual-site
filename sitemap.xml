@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://digivirtual.top/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://digivirtual.top/</loc>
+</url>
+<url>
+<loc>https://digivirtual.top/test/</loc>
+<lastmod>2025-08-07T20:50:22+03:30</lastmod>
+<image:image>
+<image:loc>https://digivirtual.top/media/posts/1/Screenshot-2025-08-04-181533.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://digivirtual.top/test-2/</loc>
+<lastmod>2025-08-07T20:40:00+03:30</lastmod>
+<image:image>
+<image:loc>https://digivirtual.top/media/posts/2/Screenshot-2025-08-04-181533.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
