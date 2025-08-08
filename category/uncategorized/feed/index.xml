@@ -22,7 +22,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>https://digivirtual.top/hello-world/</link>
-					<comments>https://digivirtual.top/hello-world/#comments</comments>
+					<comments>https://digivirtual.top/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 07 Aug 2025 23:05:54 +0000</pubDate>
@@ -35,7 +35,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://digivirtual.top/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
